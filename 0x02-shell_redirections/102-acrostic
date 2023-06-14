@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -c 1 An_Acrostic | paste -s -d "
